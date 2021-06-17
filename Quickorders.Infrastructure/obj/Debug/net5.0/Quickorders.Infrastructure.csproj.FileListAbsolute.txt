@@ -1,0 +1,15 @@
+C:\Users\CURN\source\repos\Quickorders\Quickorders.Infrastructure\bin\Debug\net5.0\Quickorders.Infrastructure.deps.json
+C:\Users\CURN\source\repos\Quickorders\Quickorders.Infrastructure\bin\Debug\net5.0\Quickorders.Infrastructure.dll
+C:\Users\CURN\source\repos\Quickorders\Quickorders.Infrastructure\bin\Debug\net5.0\ref\Quickorders.Infrastructure.dll
+C:\Users\CURN\source\repos\Quickorders\Quickorders.Infrastructure\bin\Debug\net5.0\Quickorders.Infrastructure.pdb
+C:\Users\CURN\source\repos\Quickorders\Quickorders.Infrastructure\bin\Debug\net5.0\Quickorders.Domain.dll
+C:\Users\CURN\source\repos\Quickorders\Quickorders.Infrastructure\bin\Debug\net5.0\Quickorders.Domain.pdb
+C:\Users\CURN\source\repos\Quickorders\Quickorders.Infrastructure\obj\Debug\net5.0\Quickorders.Infrastructure.csprojAssemblyReference.cache
+C:\Users\CURN\source\repos\Quickorders\Quickorders.Infrastructure\obj\Debug\net5.0\Quickorders.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CURN\source\repos\Quickorders\Quickorders.Infrastructure\obj\Debug\net5.0\Quickorders.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\CURN\source\repos\Quickorders\Quickorders.Infrastructure\obj\Debug\net5.0\Quickorders.Infrastructure.AssemblyInfo.cs
+C:\Users\CURN\source\repos\Quickorders\Quickorders.Infrastructure\obj\Debug\net5.0\Quickorders.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\CURN\source\repos\Quickorders\Quickorders.Infrastructure\obj\Debug\net5.0\Quickorders.Infrastructure.csproj.CopyComplete
+C:\Users\CURN\source\repos\Quickorders\Quickorders.Infrastructure\obj\Debug\net5.0\Quickorders.Infrastructure.dll
+C:\Users\CURN\source\repos\Quickorders\Quickorders.Infrastructure\obj\Debug\net5.0\ref\Quickorders.Infrastructure.dll
+C:\Users\CURN\source\repos\Quickorders\Quickorders.Infrastructure\obj\Debug\net5.0\Quickorders.Infrastructure.pdb
